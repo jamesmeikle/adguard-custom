@@ -1,4 +1,2 @@
 app.readingeggs.com
 cashrewards.com.au
-mastodon.technology
-mastodon.cyber
